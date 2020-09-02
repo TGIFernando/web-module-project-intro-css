@@ -151,6 +151,14 @@ nav a {
     text-decoration: none;
 }
 
+.b1:hover,
+.b2:hover,
+.b3:hover {
+    color: white;
+    background-color: black;
+    transition: 1.5s;
+}
+
 .prof {
     display: inline-block;
     height: 15rem;
